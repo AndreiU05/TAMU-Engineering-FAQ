@@ -35,7 +35,7 @@ There are no keys or environment files needed for this version.
 ## Requirements
 
 - Python 3
-- Streamlit
+- Streamlit Library
 - A terminal or command prompt to run the app
 
 The only installed Python library listed in `requirements.txt` is:
@@ -45,34 +45,6 @@ streamlit>=1.36,<2
 ```
 
 The app also uses Python's built-in `re` module for simple word and phrase matching.
-
-## Screenshots
-
-Main view:
-
-![Main app view](screenshots/defaultview1.png)
-
-FAQ sidebar:
-
-![FAQ sidebar view](screenshots/defaultview2.png)
-
-Example responses:
-
-![Example response 1](screenshots/examplequestion1.png)
-
-![Example response 2](screenshots/examplequestion2.png)
-
-![Example response 3](screenshots/examplequestion3.png)
-
-## Project Structure
-
-```text
-app.py              main Streamlit app
-faq/                extra notes and source links used while building the project
-requirements.txt    Python packages needed to run the app
-.gitignore          files that should not be uploaded to GitHub
-screenshots/        screenshots of the app
-```
 
 ## How To Run It
 

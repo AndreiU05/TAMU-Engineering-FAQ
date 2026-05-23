@@ -2,7 +2,7 @@
 
 This is a small Streamlit project I made to help Texas A&M engineering students find the right resource for common questions.
 
-This version does not use AI. A lot of the questions students ask are about things that can change, like ETAM results, GPA reports, degree plans, professor grade distributions, schedules, and scholarships. I think it is better for this app to send students to the official source instead of trying to guess an answer.
+A lot of the questions students ask are about things that can change, like ETAM results, GPA reports, degree plans, professor grade distributions, schedules, and scholarships. I think it is better for this app to send students to the official source instead of trying to guess an answer.
 
 This project is student-made and is not endorsed, owned, or operated by Texas A&M University.
 
@@ -130,7 +130,7 @@ Students should still check official TAMU pages or talk to an advisor before mak
 ## What I Learned
 
 - How to build a simple app with Python
-- How to use Streamlit for the web page
+- How to use Streamlit for the web page UI
 - How to list project libraries in `requirements.txt`
 - How to use Python's built-in `re` module for basic text matching
 - How to organize resource links

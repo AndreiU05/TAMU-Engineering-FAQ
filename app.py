@@ -537,7 +537,7 @@ def render_message(label, message):
 
 
 def show_sidebar():
-    # The sidebar is for app navigation, not developer file details.
+    # The sidebar is for ideas and summary
     with st.sidebar:
         st.header("FAQ Categories")
 

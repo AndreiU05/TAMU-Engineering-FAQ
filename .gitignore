@@ -1,0 +1,17 @@
+# Local secret/config files
+.env
+.env.*
+*.env
+secrets.*
+*.secret
+.streamlit/secrets.toml
+
+# Virtual environments
+.venv/
+
+# IDE/editor files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
